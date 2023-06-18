@@ -1,7 +1,7 @@
 # Subnetting
 IPv4 cím beállítása router interfészeken:
 1. interface GigabitEthernet 0/0
-2. •ip address 195.220.123.1 255.255.255.0
+2. ip address 195.220.123.1 255.255.255.0
 3. no shutdown
 IP cím beállítása switch VLAN interfészén:
 1. interface vlan 1
