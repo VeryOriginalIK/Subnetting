@@ -78,6 +78,8 @@ SSH konfigurálása:
 
 statikus forgalomirányítás (IPv4):
  ip route 0.0.0.0 0.0.0.0 se0/0/0 
+ 
 (alapértelmezett statikus útvonal kimenő interfésszel)
  ip route 0.0.0.0 0.0.0.0 192.168.1.1 
+ 
 (alapértelmezett statikus útvonal következő ugrás IP-címmel)
